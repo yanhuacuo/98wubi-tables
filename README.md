@@ -53,8 +53,7 @@ khty 踽
 * 目前，「百度手机输入法」，「百度五笔Mac版」，「清歌输入法」，「精灵输入法」，「手心输入法」，皆已内置98版五笔方案。
 * 汉字若在，形码即存，共勉！
 
-[98五笔专利书](https://drive.google.com/open?id=0BwqjucTD38qrSnZUclV2MFY4X2s)
-
+点击下载：[98五笔专利书](https://drive.google.com/open?id=0BwqjucTD38qrSnZUclV2MFY4X2s)
 
 
 ![专利概览](./01.jpg)
