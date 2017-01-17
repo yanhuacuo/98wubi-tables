@@ -51,9 +51,9 @@ khty 踽
 
 [98五笔专利书](https://drive.google.com/open?id=0BwqjucTD38qrSnZUclV2MFY4X2s)
 
-![专利概览](./01.png)
+![专利概览](./01.jpg)
 
-![专利概览](./02.jpg)
+![专利概览](./02.png)
 
 ![专利概览](./03.jpg)
 
