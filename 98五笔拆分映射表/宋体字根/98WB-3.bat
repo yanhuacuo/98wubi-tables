@@ -1,0 +1,1 @@
+REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink" /v "98WB-3" /t REG_MULTI_SZ /d "SIMSUN.TTC,SimSun"\0"SIMSUNB.TTF,SimSun-ExtB"\0"MSYH.TTC,Microsoft YaHei UI,128,96"\0"MSYH.TTC,Microsoft YaHei,128,96"\0 /f
