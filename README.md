@@ -14,9 +14,17 @@ https://www.bilibili.com/video/av54083952
 
 - opencc组件适配
 
-我们利用 opencc 组件在 RIME 上所俱备的给候选词「嵌入注解」的功能，制作了[98五笔码元拆分提示](https://98wb.github.io/input%20method/2019/05/22/007.98wb.html)，借助于 RIME 的跨平台特性，在 Linux \ MacOS \ Android 等不同操作系统下的中州韵前端，也有[同样](https://98wb.github.io/input%20method/2019/05/22/008.trime.html)精美的功能实现。
+我们利用 opencc 组件在 RIME 上所俱备的给候选词「嵌入注解」的功能，制作了98五笔码元拆分提示：
 
-其实这并不容易，我们从零制作了拆分提示所需要的「矢量字体」，并且对日常使用的 GB18030 全部两万七千多汉字逐一校对 opencc 拆分文件。但这些辛苦非常值得，用惯了普通输入法软件的人，初见[这样](http://www.98wubi.com/wp-content/uploads/2019/03/%E5%B0%8F%E7%8B%BC%E6%AF%AB-1.gif)的功能界面时，无不惊艳。
+![weasel](https://raw.githubusercontent.com/yanhuacuo/98wubi/master/linux/%E5%B0%8F%E7%8B%BC%E6%AF%AB.gif)
+
+借助于 RIME 的跨平台特性，在 Linux \ MacOS \ Android 等不同操作系统下的中州韵前端，也有同样精美的功能实现:
+
+[squirrel](https://raw.githubusercontent.com/yanhuacuo/98wubi/master/linux/%E5%8D%95%E5%AD%97%E4%B8%8B%E7%9A%84%E6%88%AA%E5%9B%BE.jpg)
+
+其实这并不容易，我们从零制作了拆分提示所需要的「矢量字体」，并且对日常使用的 GB18030 全部两万七千多汉字逐一校对 opencc 拆分文件。但这些辛苦非常值得，用惯了普通输入法软件的人，初见这样的功能界面时，无不惊艳。
+
+[tree](https://raw.githubusercontent.com/yanhuacuo/98wubi/master/linux/shot.jpg)
 
 这部分功能的实现，拓展到了「拼音反查」中，当用户以「z」键进入「临时拼音」时，我们以 opencc 「嵌入注解」的模式，提供「三重注解」：
 
@@ -72,7 +80,12 @@ https://www.bilibili.com/video/av54083952
 
 在使用人数最多的 Win 、Mac 和 Android 下，我们制作了傻瓜式的安装包，Linux 下，有一步到位的 Shell 迁移脚本。
 
-除了这些安装方式尽可能地友好之外，在 Android 下，还有[同文98五笔版](https://98wb.github.io/input%20method/2019/05/22/008.trime.html)这样专门绘制皮肤素材的尝试。
+除了这些安装方式尽可能地友好之外，在 Android 下，还有同文98五笔版,这样专门绘制皮肤素材的尝试。
+
+![0](https://raw.githubusercontent.com/yanhuacuo/98wubi/master/linux/0.png)
+![1](https://raw.githubusercontent.com/yanhuacuo/98wubi/master/linux/2.png)
+![2](https://raw.githubusercontent.com/yanhuacuo/98wubi/master/linux/%E6%89%93%E5%AD%97%E7%A4%BA%E6%84%8F.png)
+
 
 我们98小组维护的98五笔中州韵配置，是目前最大程度地利用了中州韵的特技，而且是用得最好的，没有之一。
 
