@@ -95,6 +95,8 @@ https://www.bilibili.com/video/av54083952
 ## 相关链接
 
 
+<div class="content">
+<ul>
 <li>98五笔-QQ群：<a href="//shang.qq.com/wpa/qunwpa?idkey=26ae7c9099c6f37a78e0501329e179da09820470312195252a6927c565fcb995">547820540</a></li>
 <li>98五笔-项目：<a href="https://github.com/yanhuacuo/98wubi-tables">GitHub</a></li>
 <li>98五笔-资源库：<a href="https://wb98.gitee.io/">资源下载</a></li>
@@ -102,5 +104,7 @@ https://www.bilibili.com/video/av54083952
 <li>98五笔-视频库：<a href="https://space.bilibili.com/13979976">B站视频库</a></li>
 <li>98五笔-主页：<a href="http://www.98wubi.com/">98五笔主页</a></li>
 <li>98五笔-贴吧：<a href="http://tieba.baidu.com/f?kw=98%E4%BA%94%E7%AC%94&ie=utf-8&tab=main">贴吧</a></li>
+</ul>
+</div>
 
 
