@@ -54418,7 +54418,7 @@ xtan 𢛭 𥾑
 xtay 张
 xtb 绣
 xtbb 鄊
-xtbg 𦁳 𮉫
+xtbg 𦁳
 xtbh 𨙵
 xtbk 𪢞
 xtbn 絁 㢮 𫄟
@@ -54521,7 +54521,7 @@ xtuh 縦
 xtun 𦂵
 xtuy 终 終 𥿦
 xtvb 郷 𭅼
-xtvg 緌 㢻 𦂻
+xtvg 𮉫 緌 㢻 𦂻
 xtvi 𫕙
 xtvj 響
 xtw 飨

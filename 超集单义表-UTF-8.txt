@@ -86563,7 +86563,6 @@
 绣	xtb
 鄊	xtbb
 𦁳	xtbg
-𮉫	xtbg
 𨙵	xtbh
 𪢞	xtbk
 絁	xtbn
@@ -86743,6 +86742,7 @@
 𥿦	xtuy
 郷	xtvb
 𭅼	xtvb
+𮉫	xtvg
 緌	xtvg
 㢻	xtvg
 𦂻	xtvg
