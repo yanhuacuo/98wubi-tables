@@ -110,7 +110,4 @@ https://www.bilibili.com/video/av54083952
 
 ## 超集字体使用
 
-- Linux 下，以「98WB-V」可以显示全部 unicode 12.1 中的汉字；
-
-
-- Window 下，合并注册表后，以「98WB-U」来显示全部汉字。
+- 所有平台，统一使用「98WB-V」可以显示全部 unicode 12.1 中的汉字。
