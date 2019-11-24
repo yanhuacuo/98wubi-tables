@@ -33482,7 +33482,9 @@ ntfy 𦐣
 ntg 性
 ntga 𰒥
 ntge 慟
-ntgf 屛 𢛉 𢝆 𪬗 𫵩 䦕 𭕠 𰑇
+ntgf 屛 𢛉 𢝆 𪬗 𫵩 𭕠 𰑇
+undf 䦕
+utgf 䦕 瘇 𤷣 𨵮 𬔥 𰩨
 ntgg 性
 ntgh 𢘸 𰑖
 ntgk 𰠨
@@ -52405,7 +52407,7 @@ ugd 闩 闰 閂 閏 𬏚 𭼆
 ugda 𨷑 𬙺
 ugdc 𦫧 𫅟
 ugde 𦎿
-ugdf 𠵊 𦍸 𬙼
+ugdf 𠵊 𦍸 𬙼 開
 ugdg 𦎡 𦏄 𨷆 𫅝
 ugdi 𡮔 𨳨 𫅚 𬮜
 ugdj 𠝫
@@ -53746,7 +53748,6 @@ utfx 㾩 𨵞
 utgc 𤷺
 utgd 𤵙
 utge 𠘃
-utgf 瘇 𤷣 𨵮 𬔥 𰩨
 utgg 𨷥 𤸇 𭼳 𮄫 𰠑
 utgh 𨳡
 utgi 𨳺

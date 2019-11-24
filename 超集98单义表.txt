@@ -51445,7 +51445,8 @@ is	it
 𢝆	ntgf
 𪬗	ntgf
 𫵩	ntgf
-䦕	ntgf
+䦕	undf
+䦕	utgf
 𭕠	ntgf
 𰑇	ntgf
 性	ntgg
@@ -85323,6 +85324,7 @@ is	it
 疾	utd
 䦚	utdd
 開	utdf
+開	ugdf
 㓉	utdg
 𤖀	utdh
 𤶞	utdh
