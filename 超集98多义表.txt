@@ -33483,8 +33483,6 @@ ntg 性
 ntga 𰒥
 ntge 慟
 ntgf 屛 𢛉 𢝆 𪬗 𫵩 𭕠 𰑇
-undf 䦕
-utgf 䦕 瘇 𤷣 𨵮 𬔥 𰩨
 ntgg 性
 ntgh 𢘸 𰑖
 ntgk 𰠨
@@ -39801,7 +39799,7 @@ qjly 𨭜
 qjmp 𰽍
 qjmy 鍝 𰷐 𰾙
 qjn 龟
-qjnb 龟
+qjnb 龟 ⻳
 qjnc 𱍅
 qjnd 𡘬
 qjng 鎉 𰾬
@@ -46357,6 +46355,7 @@ slwt 㮨
 slxi 樏
 slxy 欏
 sly 楞
+slyr 鿝
 slyt 楞 𣕶
 sm 贾 刺
 smaa 㰄
@@ -53204,6 +53203,7 @@ uncf 𬏴
 unci 羗 𤵷
 uncy 𤕱
 und 𬏬
+undf 䦕
 undg 𦎠 𡱨 𫁦
 unee 𢒘
 uneu 𬡄
@@ -53748,6 +53748,7 @@ utfx 㾩 𨵞
 utgc 𤷺
 utgd 𤵙
 utge 𠘃
+utgf 䦕 瘇 𤷣 𨵮 𬔥 𰩨
 utgg 𨷥 𤸇 𭼳 𮄫 𰠑
 utgh 𨳡
 utgi 𨳺
@@ -60010,7 +60011,7 @@ xnnk 𦀯
 xnnn 𥾆 𥾆
 xnnp 𦇗
 xnnw 繏 𦈝
-xnny 母 糹 䋟 ⺯
+xnny 母 糹 䋟 ⺯ ⺟
 xnov 𫄄
 xnrg 䌌 𰬶
 xntt 𮈊

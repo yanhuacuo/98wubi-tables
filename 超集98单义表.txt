@@ -51444,8 +51444,6 @@
 𢝆	ntgf
 𪬗	ntgf
 𫵩	ntgf
-䦕	undf
-䦕	utgf
 𭕠	ntgf
 𰑇	ntgf
 性	ntgg
@@ -61667,6 +61665,7 @@
 𰾙	qjmy
 龟	qjn
 龟	qjnb
+⻳	qjnb
 𱍅	qjnc
 𡘬	qjnd
 鎉	qjng
@@ -72798,6 +72797,7 @@
 樏	slxi
 欏	slxy
 楞	sly
+鿝	slyr
 楞	slyt
 𣕶	slyt
 贾	sm
@@ -83249,6 +83249,7 @@
 𠵊	ugdf
 𦍸	ugdf
 𬙼	ugdf
+開	ugdf
 𦎡	ugdg
 𦏄	ugdg
 𨷆	ugdg
@@ -84525,6 +84526,7 @@
 𤵷	unci
 𤕱	uncy
 𬏬	und
+䦕	undf
 𦎠	undg
 𡱨	undg
 𫁦	undg
@@ -85323,7 +85325,6 @@
 疾	utd
 䦚	utdd
 開	utdf
-開	ugdf
 㓉	utdg
 𤖀	utdh
 𤶞	utdh
@@ -85385,6 +85386,7 @@
 𤷺	utgc
 𤵙	utgd
 𠘃	utge
+䦕	utgf
 瘇	utgf
 𤷣	utgf
 𨵮	utgf
@@ -95083,6 +95085,7 @@
 糹	xnny
 䋟	xnny
 ⺯	xnny
+⺟	xnny
 𫄄	xnov
 䌌	xnrg
 𰬶	xnrg
