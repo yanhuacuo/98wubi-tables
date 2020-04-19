@@ -15,6 +15,8 @@ https://www.bilibili.com/video/av54083952
 
 ## 中州韵上的98五笔
 
+![小狼毫98五笔版](https://raw.githubusercontent.com/98wb/win/master/%E5%B0%8F%E7%8B%BC%E6%AF%AB%E6%BC%94%E7%A4%BA.gif)
+
 - opencc组件适配
 
 我们利用 opencc 组件在 RIME 上所俱备的给候选词「嵌入注解」的功能，制作了98五笔码元拆分提示：
