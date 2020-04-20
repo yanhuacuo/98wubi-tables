@@ -13,6 +13,16 @@ https://98wb.github.io/
 
 https://www.bilibili.com/video/av54083952
 
+## 本档输入工具
+
+— 小小输入法98五笔专版
+— 柚子输入法98五笔专版
+— 五笔98版
+— 小狼毫98五笔专版
+— 鼠须管98五笔专版
+— 同文输入法98五笔专版
+— 小浪98五笔专版
+
 ## 中州韵上的98五笔
 
 ![小狼毫98五笔版](https://raw.githubusercontent.com/98wb/win/master/%E5%B0%8F%E7%8B%BC%E6%AF%AB%E6%BC%94%E7%A4%BA.gif)
