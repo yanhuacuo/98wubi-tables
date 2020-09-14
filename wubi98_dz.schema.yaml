@@ -1,0 +1,206 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: wubi98_dz
+  name: "单字"
+  version: "6.0"
+  author:
+    - 發明人 王永民
+  description: |
+    五笔98版
+    碼表源自 yanhuacuo
+    敲 z 鍵進入拼音反查
+  dependencies:
+    - py
+
+switches:
+  - name: ascii_mode
+    reset: 0
+  - name: zh_trad
+    reset: 0
+    states: [ 简,繁 ]
+  - name: new_spelling
+    reset: 0
+    states: [ 显,隐 ]  
+  - name: jiayin
+    reset: 1
+  - name: gb2312
+    reset: 0
+    states: [ 扩,常 ]
+  - name: new_hide_pinyin
+    reset: 1
+    states: [ 音, 哑 ]
+  - name: single_char
+    reset: 0
+    states: [ 单, 词 ]  
+engine:
+  filters:
+    - charset_filter@gb2312  
+    - simplifier
+    - "reverse_lookup_filter@ci_reverse_lookup"
+    - lua_filter@new_spelling@spelling
+    - lua_filter@single_char
+    - "simplifier@jiayin"
+    - uniquifier
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - "affix_segmentor@mkst"
+    - "affix_segmentor@rvlk1"
+    - "affix_segmentor@zhuyin_fix"
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - "table_translator@rvlk1"
+    - table_translator
+    - "table_translator@fixed"
+    - "table_translator@mkst"
+    - "table_translator@zhuyin_fix"
+    - "history_translator@history"
+    - "lua_translator@helper"
+    - "lua_translator@time_date"
+speller:
+  auto_select: true
+  auto_clear: max_length
+  delimiter: "`"
+  max_code_length: 4
+  
+translator:
+  dictionary: wubi98_dz
+  db_class: tabledb
+  initial_quality: 100000
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_encoder: false
+  encode_commit_history: false
+  max_phrase_length: 2
+  enable_completion: false
+  enable_user_dict: false
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+fixed:
+  __include: /translator
+  initial_quality: 1000
+  enable_encoder: true
+  enable_user_dict: true
+  
+mkst:
+  __include: /translator
+  initial_quality: 10
+  enable_sentence: true
+  prefix: '`'
+  tips: "〔精准造词〕"
+  tag: mkst
+
+reverse_lookup:
+  __include: /translator
+  dictionary: py
+  tips: "〔拼音反查〕"
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+  tag: rvlk2
+    
+rvlk1:
+  __include: /reverse_lookup
+  prefix: "z"
+  tag: rvlk1
+  extra_tags:
+    - rvlk2  
+
+ci_reverse_lookup:
+  dictionary: wubi98_dz
+  tips: "〔五笔滤镜〕"
+  tags:
+    - rvlk2
+    
+zhuyin_fix:
+  __include: /translator
+  prefix: '~'
+  tips: "〔以形查音〕"
+  tag: zhuyin_fix
+
+simplifier:
+  opencc_config: s2t.json
+  option_name: zh_trad
+
+
+lua_reverse_db:
+  spelling: wb_spelling
+  code: wb_spelling
+
+jiayin:
+  opencc_config: jiayin.json
+  option_name: jiayin
+  show_in_comment: true
+  comment_format:
+    - "xform/<br>/\r/"
+    - "xform/&nbsp/ /"
+  tags:
+#   - abc
+    - zhuyin_fix
+  tips: all 
+
+recognizer:
+  import_preset: default
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    mkst: "^[a-y]*`[a-y`]*$"
+    punct: "^/([0-9]0?|[A-Za-z]+)$"
+    rvlk1: "^z[a-z]*'?$"
+    rvlk2: "^z[a-z]*'?$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+    zhuyin_fix: "~[a-y]*?$"
+    helper: '^help$'
+charset_filter:
+  option_name: gb2312
+  
+history:
+  input: z
+  size: 1
+  initial_quality: 1
+  
+
+key_binder:
+  bindings: 
+    - { when: has_menu, accept: Left, send: Up }
+    - { when: has_menu, accept: Right, send: Down }
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+    - {accept: space, send: Escape, when: composing}
+    - {accept: space, send: space, when: has_menu}
+    - {accept: Return, send: Escape, when: composing}
+    - {accept: Return, send: Escape, when: has_menu}
+    - {accept: "Control+Shift+4", toggle: zh_trad, when: always}
+    - {accept: "Control+Shift+dollar", toggle: zh_trad, when: always}
+    - {accept: "Control+Shift+F", toggle: zh_trad, when: always}
+    - {accept: "Control+Shift+H", toggle: new_spelling, when: always}
+    - {accept: "Control+Shift+J", toggle: new_hide_pinyin, when: always} 
+    - {accept: "Control+Shift+K", toggle: single_char, when: always}
+    - {accept: "Control+Shift+U", toggle: gb2312, when: always} 
+    - {accept: "Control+Shift+I", toggle: gb2312, when: always} 
+    - {accept: "Control+Shift+O", toggle: gb2312, when: always}
+
+punctuator:
+  import_preset: symbols
+  
+menu:
+  page_size: 9  
