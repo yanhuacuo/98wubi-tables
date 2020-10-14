@@ -45,7 +45,7 @@ https://www.bilibili.com/video/av54083952
 
 ![ibus-rime](https://raw.githubusercontent.com/yanhuacuo/98wubi-tables/master/wiki-pic/ibus-rime.png)
 
-[为 Ubuntu20.04-LTS 添加 ibus-rime](https://www.bilibili.com/video/BV1wt4y1i7Cq)
+## [为 Ubuntu20.04-LTS 添加 ibus-rime](https://www.bilibili.com/video/BV1wt4y1i7Cq)
 
 <p align="center"><a href="https://github.com/yanhuacuo/98wubi">iBus-Rime 下的拼音反查三重注解</a></p>
 
