@@ -44,10 +44,12 @@ https://www.bilibili.com/video/av54083952
 这部分功能的实现，拓展到了「拼音反查」中，当用户以「z」键进入「临时拼音」时，我们以 opencc 「嵌入注解」的模式，提供「三重注解」：
 
 ![ibus-rime](https://upimage.alexhchu.com/2020/10/23/233c0eaca196a.png)
+<p align="center"><a href="https://github.com/yanhuacuo/98wubi">iBus-Rime 下的拼音反查三重注解</a></p>
+
 
 ## [为 Ubuntu20.04-LTS 添加 ibus-rime](https://www.bilibili.com/video/BV1wt4y1i7Cq)
 
-<p align="center"><a href="https://github.com/yanhuacuo/98wubi">iBus-Rime 下的拼音反查三重注解</a></p>
+
 
 - 扩展词库
 
