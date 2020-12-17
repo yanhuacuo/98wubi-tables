@@ -1,6 +1,6 @@
 ## 资源库主页
 
-https://98wb.github.io/
+https://wb98.gitee.io/
 
 ## 纯形佳作
 
