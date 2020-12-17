@@ -111,6 +111,46 @@ https://www.bilibili.com/video/av54083952
 
 我们98小组维护的98五笔中州韵配置，是目前最大程度地利用了中州韵的特技，而且是用得最好的，没有之一。
 
+## 特别介绍
+
+### 小狼毫辅助工具
+
+我们开发制作了「小狼毫辅助工具」，实现了对「98五笔版小狼毫」既有功能的全面管理
+
+- 软件获取
+
+[本档](https://github.com/yanhuacuo/98wubi-tables/tree/master/%E8%BE%93%E5%85%A5%E6%B3%95%E8%BD%AF%E4%BB%B6) 或者 [98五笔资源库](http://98wb.ys168.com/)
+
+- 功能
+
+双击即可「启动」，这是一款「个人开发者」的软件，它没有电子签名，您要与自己的「杀毒软件」商量一下，添加到白名单或信任列表。如果在这方面有困难，或不信任我们，建议不要尝试。
+
+启动后，软件自动进入「托盘」：
+
+首创实现：
+
+- 内置码表的自由转换与提取
+- 窗口化的短语输入与管理（Shift+英文编码）
+- 方案文件的便捷调整
+- 不同软件的中英文默认设定的窗口化管理
+- 批量造词窗口化写入
+
+其它：
+
+内置主题切换、字体切换、输入框外观微调……
+
+更多功能恕不一一列举，总之，很安逸。
+
+[![tool-1.png](https://upimage.alexhchu.com/2020/12/17/c5f05ea5ebdeb.png)](https://upimage.alexhchu.com/2020/12/17/c5f05ea5ebdeb.png)
+[![tool-2.png](https://upimage.alexhchu.com/2020/12/17/37091f829d2da.png)](https://upimage.alexhchu.com/2020/12/17/37091f829d2da.png)
+[![tool-3.png](https://upimage.alexhchu.com/2020/12/17/92077b60a98ec.png)](https://upimage.alexhchu.com/2020/12/17/92077b60a98ec.png)
+[![tool-4.png](https://upimage.alexhchu.com/2020/12/17/0d9e8ae83e61e.png)](https://upimage.alexhchu.com/2020/12/17/0d9e8ae83e61e.png)
+[![tool-5.png](https://upimage.alexhchu.com/2020/12/17/a1cff9683f2f6.png)](https://upimage.alexhchu.com/2020/12/17/a1cff9683f2f6.png)
+[![tool-6.png](https://upimage.alexhchu.com/2020/12/17/834b02809f86e.png)](https://upimage.alexhchu.com/2020/12/17/834b02809f86e.png)
+[![tool-7.png](https://upimage.alexhchu.com/2020/12/17/539a11360f735.png)](https://upimage.alexhchu.com/2020/12/17/539a11360f735.png)
+[![tool-8.png](https://upimage.alexhchu.com/2020/12/17/fef296bd211fb.png)](https://upimage.alexhchu.com/2020/12/17/fef296bd211fb.png)
+
+
 ## 相关链接
 
 
