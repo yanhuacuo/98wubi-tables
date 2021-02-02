@@ -30,19 +30,8 @@
 
 ## ibus-rime
 
-![2020-12-29_23-19.png](https://upimage.alexhchu.com/2021/02/02/2734d660f80de.png)
-
-![2020-12-29_23-19.png](https://upimage.alexhchu.com/2021/02/02/2734d660f80de.png)
 
 ![打字.png](https://upimage.alexhchu.com/2021/02/02/957f0e42b0b2b.png)
-
-![2020-12-29_23-19.png](https://upimage.alexhchu.com/2021/02/02/2734d660f80de.png)
-
-![2020-12-29_23-19.png](https://upimage.alexhchu.com/2021/02/02/2734d660f80de.png)
-
-![2020-12-29_23-19.png](https://upimage.alexhchu.com/2021/02/02/2734d660f80de.png)
-
-![2020-12-29_23-19.png](https://upimage.alexhchu.com/2021/02/02/2734d660f80de.png)
 
 ![2020-12-31_15-48.png](https://upimage.alexhchu.com/2021/02/02/290fa0842d951.png)
 
