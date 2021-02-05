@@ -2,12 +2,6 @@
 
 ![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
 
-![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
-
-![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
-
-![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
-
 ![键面展示02.jpg](https://upimage.alexhchu.com/2021/02/05/3cc8b274648cd.jpg)
 
 ![键面展示03.jpg](https://upimage.alexhchu.com/2021/02/05/9c40c5ddb1451.jpg)
