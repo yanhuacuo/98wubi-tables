@@ -1,3 +1,38 @@
+## 安卓手机版
+
+![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
+
+![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
+
+![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
+
+![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
+
+![键面展示02.jpg](https://upimage.alexhchu.com/2021/02/05/3cc8b274648cd.jpg)
+
+![键面展示03.jpg](https://upimage.alexhchu.com/2021/02/05/9c40c5ddb1451.jpg)
+
+![键面展示04.jpg](https://upimage.alexhchu.com/2021/02/05/0be625123b8b6.jpg)
+
+![键面展示05.jpg](https://upimage.alexhchu.com/2021/02/05/d3be98eb95311.jpg)
+
+![键面展示06.jpg](https://upimage.alexhchu.com/2021/02/05/0314929eff512.jpg)
+
+![键面展示07.jpg](https://upimage.alexhchu.com/2021/02/05/68b6c6c4855bc.jpg)
+
+![键面展示08.jpg](https://upimage.alexhchu.com/2021/02/05/39570813e5ee2.jpg)
+
+![键面展示09.jpg](https://upimage.alexhchu.com/2021/02/05/01ac0be8173b1.jpg)
+
+![键面展示10.jpg](https://upimage.alexhchu.com/2021/02/05/8643787bd09c6.jpg)
+
+![键面展示11.jpg](https://upimage.alexhchu.com/2021/02/05/04bed28b71633.jpg)
+
+![键面展示12.jpg](https://upimage.alexhchu.com/2021/02/05/832122dcd7d6f.jpg)
+
+![键面展示13.jpg](https://upimage.alexhchu.com/2021/02/05/4edaec20abff3.jpg)
+
+
 ## 鼠须管
 
 ![week.jpg](https://upimage.alexhchu.com/2021/02/02/71a4d4ff4a28f.jpg)
