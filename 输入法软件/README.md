@@ -1,90 +1,93 @@
-## 安卓手机版
+### 小狼毫98五笔版部分功能使用展示
 
-![键面展示01.jpg](https://upimage.alexhchu.com/2021/02/05/293294514a83c.jpg)
+#### 一、方案切换
 
-![键面展示02.jpg](https://upimage.alexhchu.com/2021/02/05/3cc8b274648cd.jpg)
+###### 快捷键切换方式：
 
-![键面展示03.jpg](https://upimage.alexhchu.com/2021/02/05/9c40c5ddb1451.jpg)
+​	 ***Ctrl + `*** 或 ***F4*** （具体热键看配置设定）
 
-![键面展示04.jpg](https://upimage.alexhchu.com/2021/02/05/0be625123b8b6.jpg)
+###### 	关键字切换方式：	
 
-![键面展示05.jpg](https://upimage.alexhchu.com/2021/02/05/d3be98eb95311.jpg)
+​	具体关键字打help看帮助
 
-![键面展示06.jpg](https://upimage.alexhchu.com/2021/02/05/0314929eff512.jpg)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/01.png)
 
-![键面展示07.jpg](https://upimage.alexhchu.com/2021/02/05/68b6c6c4855bc.jpg)
+#### 二、简繁转换/字集切换/拆分显隐/单字模式/三重注解
 
-![键面展示08.jpg](https://upimage.alexhchu.com/2021/02/05/39570813e5ee2.jpg)
+###### 	组合热键：
 
-![键面展示09.jpg](https://upimage.alexhchu.com/2021/02/05/01ac0be8173b1.jpg)
+​		Ctrl+Shift+F、Ctrl+Shift+U、Ctrl+Shift+H、	Ctrl+Shift+K、Ctrl+Shift+J（具体热键看配置设定）
 
-![键面展示10.jpg](https://upimage.alexhchu.com/2021/02/05/8643787bd09c6.jpg)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/02.gif)
 
-![键面展示11.jpg](https://upimage.alexhchu.com/2021/02/05/04bed28b71633.jpg)
+######	关键字切换：
 
-![键面展示12.jpg](https://upimage.alexhchu.com/2021/02/05/832122dcd7d6f.jpg)
+​		具体关键字打help看帮助
 
-![键面展示13.jpg](https://upimage.alexhchu.com/2021/02/05/4edaec20abff3.jpg)
+​		效果如下：
 
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/03-1.png)
 
-## 鼠须管
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/03-2.png)
 
-![week.jpg](https://upimage.alexhchu.com/2021/02/02/71a4d4ff4a28f.jpg)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/03-3.png)
 
-![date.jpg](https://upimage.alexhchu.com/2021/02/02/9825c61c4a9da.jpg)
+#### 三、精准造词
 
-![2.png](https://upimage.alexhchu.com/2021/02/02/08ed5791a5e5f.png)
+​	效果如下：造好的词上屏后不能回删，否则不记录。造好的词需再次上屏才能转正。
 
-![time.jpg](https://upimage.alexhchu.com/2021/02/02/c19b8f9a06f05.jpg)
+​	删词操作：定位到要删除的词条上面按Shift+Delete删除，此操作只对造词有效！
 
-![help-2.jpg](https://upimage.alexhchu.com/2021/02/02/d1aa26082a17c.jpg)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E7%B2%BE%E5%87%86%E9%80%A0%E8%AF%8D.gif)
 
-![help-1.jpg](https://upimage.alexhchu.com/2021/02/02/0365ba2eeec1e.jpg)
+#### 四、以形查音
 
-![字词全注.jpg](https://upimage.alexhchu.com/2021/02/02/2449adf93ce2d.jpg)
+​	效果如下：~引导单字以形查音，「 ~ 键为Shift + ` 」
 
-![以形查音.jpg](https://upimage.alexhchu.com/2021/02/02/3345256d397ae.jpg)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E4%BB%A5%E5%BD%A2%E6%9F%A5%E9%9F%B3.gif)
 
-![鼠须管.jpg](https://upimage.alexhchu.com/2021/02/02/3c1b2d848c1e9.jpg)
+#### 五、特殊符号输出
 
-![临时拼音.jpg](https://upimage.alexhchu.com/2021/02/02/ffce7a48a974b.jpg)
+​	实现方式：/引导+符号编码（具体符号编码请查看symbols.yaml文件或开启小狼毫助手打字界面输入//查看指引。
 
-![精准造词.jpg](https://upimage.alexhchu.com/2021/02/02/0bfcdbb46f1ec.jpg)
+​	效果如下：
 
-![方案选择.jpg](https://upimage.alexhchu.com/2021/02/02/05657ba30ada8.jpg)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E7%AC%A6%E5%8F%B7.gif)
 
-![拆分注解.jpg](https://upimage.alexhchu.com/2021/02/02/8bc9880e781c7.jpg)
+#### 六、农历节气输出
 
-![1.png](https://upimage.alexhchu.com/2021/02/02/744acc600ebee.png)
+​		具体关键字打help看帮助
 
-## ibus-rime
+​		效果如下：
 
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E8%8A%82%E6%B0%94.png)
 
-![打字.png](https://upimage.alexhchu.com/2021/02/02/957f0e42b0b2b.png)
+#### 七、公历日期时间
 
-![2020-12-31_15-48.png](https://upimage.alexhchu.com/2021/02/02/290fa0842d951.png)
+​		具体关键字打help看帮助
 
-![2020-12-30_16-27.png](https://upimage.alexhchu.com/2021/02/02/5dc34a6a139aa.png)
+​		效果如下：
 
-![2020-12-29_23-19_1.png](https://upimage.alexhchu.com/2021/02/02/d259f43207784.png)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E6%97%B6%E9%97%B4.png)
 
-![2020-12-29_23-18.png](https://upimage.alexhchu.com/2021/02/02/1859fe1eaa934.png)
+#### 八、拼音反查编码
 
-![2020-12-29_23-17_1.png](https://upimage.alexhchu.com/2021/02/02/be789d33887c2.png)
+​		具体关键字打help看帮助
 
-![2020-12-29_23-17.png](https://upimage.alexhchu.com/2021/02/02/9883df8fb0692.png)
+​		效果如下：
 
-![2020-12-29_23-16_2.png](https://upimage.alexhchu.com/2021/02/02/9cc6d8b41ac49.png)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E6%8B%BC%E9%9F%B30.gif)
 
-![2020-12-29_23-16_1.png](https://upimage.alexhchu.com/2021/02/02/bafcc47215733.png)
+#### 九、金额转换｜农历公历互转
 
-![2020-12-29_23-16.png](https://upimage.alexhchu.com/2021/02/02/f26c16c40aa2f.png)
+​		引导方法：任意大写字母开头+数字
 
-![2020-12-29_23-15_2.png](https://upimage.alexhchu.com/2021/02/02/a8518588a717d.png)
+​		具体引导打help看帮助（查询转换结果仅供参考）
 
-![2020-12-29_23-15_1.png](https://upimage.alexhchu.com/2021/02/02/aa323c5a5991d.png)
+​		效果如下：
 
-![2020-12-29_23-15.png](https://upimage.alexhchu.com/2021/02/02/a939188474abd.png)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E8%BD%AC%E6%8D%A2.png)
 
-![2020-12-29_23-14.png](https://upimage.alexhchu.com/2021/02/02/356ac0bf0f50a.png)
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E8%BD%AC%E6%8D%A2-2.png)
 
+![功能简介](https://gitee.com/wubi98/weasel-98wb/raw/master/pic/%E8%BD%AC%E6%8D%A2-3.png)
