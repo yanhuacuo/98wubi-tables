@@ -1,0 +1,16 @@
+{
+  "name": "98wb_spelling_rk",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "98wb_spelling_rk.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "text",
+      "file": "98wb_spelling_rk.txt"
+    }
+  }]
+}
