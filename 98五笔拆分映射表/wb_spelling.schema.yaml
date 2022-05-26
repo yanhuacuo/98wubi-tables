@@ -1,0 +1,16 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: wb_spelling
+  name: "伪方案"
+  version: "18.31"
+  author:
+    - Lua-table by Ace-Who
+  description: |
+    伪方案，不能打字。
+    不要选我，不要修改本方案及配套词典。
+    仅用于辅助三重注解方案实现注解功能。
+
+translator:
+  dictionary: wb_spelling
