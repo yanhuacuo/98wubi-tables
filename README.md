@@ -115,7 +115,7 @@ Unicode15.1 标准下全部汉字的拆分文件，基于该文件，可以制�
 
 # 98五笔成品软件
 
-98五笔小组开发了「weasel-tool」、「rimetool」，可对「小狼毫」、「鼠须管」、「ibus-rime」、「fcitx5-rime」进行全面可视化的词库管理、上屏行为控制，可到 [网盘](http://98wb.ysepan.com/) 下载体验。
+98五笔小组开发了「rimetool」，可对「小狼毫」、「鼠须管」、「ibus-rime」、「fcitx5-rime」进行全面可视化的词库管理、上屏行为控制，可到 [网盘](http://98wb.ysepan.com/) 下载体验。
 
 演示：
 
