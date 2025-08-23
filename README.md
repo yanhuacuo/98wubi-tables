@@ -1,7 +1,7 @@
 # 98五笔资源库
 
 - 主页
-https://wubi98.github.io/
+https://98wb.github.io/
 
 - 博客
 https://wubi98.github.io/
