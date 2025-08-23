@@ -1,10 +1,10 @@
 # 98五笔资源库
 
 - 主页
-https://wb98.gitee.io/
+https://wubi98.github.io/
 
 - 博客
-https://wubi98.gitee.io/
+https://wubi98.github.io/
 
 - 网盘
 http://98wb.ys168.com/
@@ -102,8 +102,6 @@ Unicode15.1 标准下全部汉字的拆分文件，基于该文件，可以制�
 # 超集字体
 
 - [网盘](http://98wb.ysepan.com/) 获取超集字体，以完整显示 Unicode15.1 近十万汉字。
-
-- [《字体清理与重置》](https://wubi98.gitee.io/2023/12/22/2023-12-22-001.fonts/)
 
 # 学习文件
 
